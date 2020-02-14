@@ -1,0 +1,19 @@
+{
+  "name": "prmAll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/mongodb": "^3.3.16"
+  }
+}
